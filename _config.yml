@@ -16,9 +16,10 @@
 title: TheWinOpsGuy
 email: James@TheWinOpsGuy.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Principal Security Engineer specialising in Microsoft based technologies with a focus on Windows Server and Active Directory. 
+ Working in IT Infrastucutre for the past 12 years. Now developing a DevOps mentality and levarging automation tools to produce 
+ Infrastructure as Code. Opinions are my own.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thewinopsguy.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thewinopsguy
