@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![My Photo](../assets/IMG_4827.jpg)
+![My Photo](https://thewinopsguy.io/assets/IMG_4827.JPG)
 
 Hi, I'm James and I work as a Principal Security Engineer specializing in Microsoft based technologies with a focus on Windows Server and Active Directory.  
 
