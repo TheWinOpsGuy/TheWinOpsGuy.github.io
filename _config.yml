@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: TheWinOpsGuy
 email: James@TheWinOpsGuy.io
-description: >- # this means to ignore newlines until "baseurl:"
-Hi, I'm James and I work as a Principal Security Engineer specializing in Microsoft based technologies with a focus on Windows Server and Active Directory. Through this blog I will document my journey into the world of WinOps.
+description: >- # this means to ignore newlines until "baseurl:" 
+Hi, I'm James and I work as a Principal Security Engineer specializing in Microsoft based technologies with a focus on Windows Server and Active Directory. 
+Through this blog I will document my journey into the world of WinOps.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thewinopsguy.io" # the base hostname & protocol for your site, e.g. http://example.com
