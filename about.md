@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-![My Photo]({{ "/assets/IMG_4827.jpg" | absolute_url }})
+![My Photo](/assets/IMG_4827.jpg)
 
-I'm James Lunardi and I work as a Principal Security Engineer specializing in Microsoft based technologies with a focus on Windows Server and Active Directory. 
-I've worked in traditional Enterprise IT Infrastructure roles for the past 12 years but with a recent change of companies, I'm now developing a DevOps mentality and leveraging automation tools to produce Infrastructure as Code. This blog will document my journey in Windows DevOps (WinOps). Opinions are my own.
+Hi, I'm James and I work as a Principal Security Engineer specializing in Microsoft based technologies with a focus on Windows Server and Active Directory.  
+
+WinOps is a culture, methodology and movement dedicated to the use of DevOps methodologies on Microsoft technologies. It emphasises the use of the cloud, automation and integrating development and IT operations into one fluid method on the Windows platform. It comes with the increased emphasis by Microsoft on open-source technologies.
+
+Through this blog I will document my journey into the world of WinOps.
